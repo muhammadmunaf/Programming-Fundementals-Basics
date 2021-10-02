@@ -1,5 +1,3 @@
-// M.Munaf ul Hassan	20i-0891	Assignment_1
-
 #include <iostream>
 #include <cmath>
 #include <math.h>
